@@ -1,5 +1,10 @@
 #!/usr/bin/python
 # — encoding: utf-8 —
+# SENGAJA GA GW ENCRYPT 
+# AGAR LU BISA BELAJAR
+# JANGAN RECODE TRUS GBLK
+# RECODE GA BUAT LU MASTAH!
+
 
 import os,sys,time
 
